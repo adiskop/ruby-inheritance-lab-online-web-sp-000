@@ -8,7 +8,7 @@ end
 
 
 def learn
-  new_array=@knowledge<<"string"
+  new_array=@knowledge<<"a String is a type of data in Ruby"
 
 end
 
