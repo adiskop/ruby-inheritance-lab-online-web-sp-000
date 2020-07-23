@@ -1,13 +1,14 @@
 class Student< User
 
-attr_accessor :knowledge, :new_array
+attr_accessor :knowledge, :new_array, :argument
 
 def initialize
   @knowledge=[]
 end
 
 
-def learn
+def learn(argument)
+  argument="a String is a type of data in Ruby"
   @new_array=@knowledge<<"a String is a type of data in Ruby"
 
 end
