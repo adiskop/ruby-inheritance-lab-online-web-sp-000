@@ -8,7 +8,7 @@ end
 
 
 def learn
-  new_array=@knowledge<<KNOWLEDGE[1]
+  new_array=@knowledge<<"string"
 
 end
 
