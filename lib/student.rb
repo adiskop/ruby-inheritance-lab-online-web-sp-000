@@ -7,4 +7,9 @@ def initialize
 end
 
 
+def learn
+  @knowledge<<KNOWLEDGE[1]
+  
+end
+
 end
