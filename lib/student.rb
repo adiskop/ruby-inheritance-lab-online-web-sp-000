@@ -13,7 +13,7 @@ def learn(argument)
 end
 
 def knowledge
-self.learn
+self
 end
 
 end
