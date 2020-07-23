@@ -4,7 +4,7 @@ class Teacher<User
 
 def teach
   "a String is a type of data in Ruby"
-
+  
 end
 
 end
