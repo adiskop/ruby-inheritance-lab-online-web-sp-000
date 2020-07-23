@@ -13,7 +13,7 @@ def learn(argument)
 end
 
 def knowledge
-  @knowledge=[]
+  @knowledge
 end
 
 end
